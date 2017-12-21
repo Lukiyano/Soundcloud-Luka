@@ -11,4 +11,6 @@ public class Glavni extends AppCompatActivity {
         setContentView(R.layout.activity_glavni);
 
     }
+
+    //Main activity for soundcloud app
 }
